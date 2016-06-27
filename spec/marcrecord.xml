@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00614nam a22     1  4500</leader>
+  <controlfield tag="001">1527411</controlfield>
+  <controlfield tag="008">140318                a         c00eng 2</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">0386642</subfield>
+    <subfield code="b">BIBBI</subfield>
+  </datafield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">10063994</subfield>
+    <subfield code="b">BibliofilID</subfield>
+  </datafield>
+  <datafield tag="019" ind1=" " ind2=" ">
+    <subfield code="b">l</subfield>
+    <subfield code="e">tatbtctdtetftgthtj</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">978-0-415-85745-1</subfield>
+    <subfield code="b">h.</subfield>
+    <subfield code="c">Nkr 443.00</subfield>
+  </datafield>
+  <datafield tag="082" ind1="3" ind2="1">
+    <subfield code="a">952</subfield>
+    <subfield code="z">h</subfield>
+    <subfield code="2">5</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="c">952</subfield>
+    <subfield code="d">Cri</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2=" ">
+    <subfield code="p">Original part title</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Critical issues in contemporary Japan</subfield>
+    <subfield code="c">edited by Jeff Kingston</subfield>
+    <subfield code="p">First part</subfield>
+    <subfield code="n">1</subfield>
+  </datafield>
+  <datafield tag="250" ind1="0" ind2="0">
+    <subfield code="a">2nd edition</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London</subfield>
+    <subfield code="b">Routledge</subfield>
+    <subfield code="c">2014</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">XV, 309 s.</subfield>
+    <subfield code="b">ill.</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="a">Har bibliografi, data om bidragsyterne, innholdsfortegnelse, noter, register</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">14-uke12a</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">14x0318ug</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="1">
+    <subfield code="a">Japan</subfield>
+    <subfield code="x">Samfunnsforhold</subfield>
+    <subfield code="1">952</subfield>
+    <subfield code="4">d5</subfield>
+    <subfield code="3">14607100</subfield>
+  </datafield>
+  <datafield tag="699" ind1=" " ind2="1">
+    <subfield code="a">Japan</subfield>
+    <subfield code="x">Samfunnsanalyser</subfield>
+    <subfield code="1">952</subfield>
+    <subfield code="2">BS</subfield>
+    <subfield code="9">nob</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Kingston, Jeff</subfield>
+    <subfield code="d">1970-</subfield>
+    <subfield code="e">red.</subfield>
+    <subfield code="3">2048749800</subfield>
+  </datafield>
+  <datafield tag="850" ind1=" " ind2=" ">
+    <subfield code="a">DEICHM</subfield>
+    <subfield code="s">n</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="c">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">hutl</subfield>
+    <subfield code="b">hutl</subfield>
+    <subfield code="l">3</subfield>
+    <subfield code="m">1</subfield>
+    <subfield code="o">952 Cri</subfield>
+    <subfield code="p">03011527411001</subfield>
+    <subfield code="q">2014-11-05</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00459cam a22     1  4500</leader>
+  <controlfield tag="001">626460</controlfield>
+  <controlfield tag="008">040823                j          10nob 2</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">0147191</subfield>
+    <subfield code="b">BIBBI</subfield>
+  </datafield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">832303</subfield>
+    <subfield code="b">BibliofilID</subfield>
+  </datafield>
+  <datafield tag="019" ind1=" " ind2=" ">
+    <subfield code="b">l</subfield>
+    <subfield code="d">R</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">82-495-0272-8</subfield>
+    <subfield code="b">ib.</subfield>
+    <subfield code="c">Nkr 348.00</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="d">Rag</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2="0">
+    <subfield code="a">Ragde, Anne B.</subfield>
+    <subfield code="c">forfatter</subfield>
+    <subfield code="d">1957-</subfield>
+    <subfield code="j">n.</subfield>
+    <subfield code="3">10834700</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Berlinerpoplene</subfield>
+    <subfield code="b">roman</subfield>
+    <subfield code="c">Anne Birkefeldt Ragde</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Oslo</subfield>
+    <subfield code="b">Oktober</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">313 s.</subfield>
+  </datafield>
+  <datafield tag="503" ind1=" " ind2=" ">
+    <subfield code="a">Forts. i: Eremittkrepsene</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">04x0823kh a04-14</subfield>
+  </datafield>
+  <datafield tag="699" ind1=" " ind2="2">
+    <subfield code="a">Familieforhold</subfield>
+    <subfield code="x">Fortellinger</subfield>
+    <subfield code="1">306.87</subfield>
+    <subfield code="2">BS</subfield>
+  </datafield>
+  <datafield tag="850" ind1=" " ind2=" ">
+    <subfield code="a">DEICHM</subfield>
+    <subfield code="s">n</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="c">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">flam</subfield>
+    <subfield code="b">flam</subfield>
+    <subfield code="l">57</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460003</subfield>
+    <subfield code="t">3</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fgam</subfield>
+    <subfield code="b">fgam</subfield>
+    <subfield code="l">60</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460009</subfield>
+    <subfield code="t">9</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">froa</subfield>
+    <subfield code="b">froa</subfield>
+    <subfield code="c">Ladegfrist</subfield>
+    <subfield code="l">69</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460014</subfield>
+    <subfield code="t">14</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fgry</subfield>
+    <subfield code="b">fgry</subfield>
+    <subfield code="l">74</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460015</subfield>
+    <subfield code="t">15</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fsto</subfield>
+    <subfield code="b">fsto</subfield>
+    <subfield code="l">53</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460016</subfield>
+    <subfield code="t">16</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">hutl</subfield>
+    <subfield code="b">hutl</subfield>
+    <subfield code="l">85</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460017</subfield>
+    <subfield code="t">17</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">hutl</subfield>
+    <subfield code="b">hutl</subfield>
+    <subfield code="l">74</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460018</subfield>
+    <subfield code="t">18</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">hutl</subfield>
+    <subfield code="b">hutl</subfield>
+    <subfield code="c">m</subfield>
+    <subfield code="l">54</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460019</subfield>
+    <subfield code="t">19</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fopp</subfield>
+    <subfield code="b">fopp</subfield>
+    <subfield code="l">55</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460024</subfield>
+    <subfield code="t">24</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fsme</subfield>
+    <subfield code="b">fsme</subfield>
+    <subfield code="l">33</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460026</subfield>
+    <subfield code="t">26</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fsto</subfield>
+    <subfield code="b">fsto</subfield>
+    <subfield code="l">52</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460027</subfield>
+    <subfield code="t">27</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">hutl</subfield>
+    <subfield code="b">hutl</subfield>
+    <subfield code="l">55</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460031</subfield>
+    <subfield code="t">31</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">ffur</subfield>
+    <subfield code="b">ffur</subfield>
+    <subfield code="c">UNDERHOLD</subfield>
+    <subfield code="l">48</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460035</subfield>
+    <subfield code="t">35</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fmaj</subfield>
+    <subfield code="b">fmaj</subfield>
+    <subfield code="l">39</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460038</subfield>
+    <subfield code="t">38</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">from</subfield>
+    <subfield code="b">from</subfield>
+    <subfield code="l">19</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460056</subfield>
+    <subfield code="q">2014-11-27</subfield>
+    <subfield code="t">56</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fbol</subfield>
+    <subfield code="b">fbol</subfield>
+    <subfield code="l">68</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460057</subfield>
+    <subfield code="t">57</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fmaj</subfield>
+    <subfield code="b">fmaj</subfield>
+    <subfield code="l">43</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460068</subfield>
+    <subfield code="t">68</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fnor</subfield>
+    <subfield code="b">fnor</subfield>
+    <subfield code="l">42</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460070</subfield>
+    <subfield code="t">70</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">ftor</subfield>
+    <subfield code="b">ftor</subfield>
+    <subfield code="l">29</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460075</subfield>
+    <subfield code="t">75</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fhol</subfield>
+    <subfield code="b">fhol</subfield>
+    <subfield code="l">18</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460077</subfield>
+    <subfield code="t">77</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fbjo</subfield>
+    <subfield code="b">fbjo</subfield>
+    <subfield code="l">5</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460080</subfield>
+    <subfield code="t">80</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">hutl</subfield>
+    <subfield code="b">hutl</subfield>
+    <subfield code="l">13</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460081</subfield>
+    <subfield code="t">81</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fgam</subfield>
+    <subfield code="b">fgam</subfield>
+    <subfield code="l">19</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460082</subfield>
+    <subfield code="t">82</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fmaj</subfield>
+    <subfield code="b">fmaj</subfield>
+    <subfield code="l">25</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460089</subfield>
+    <subfield code="t">89</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fbju</subfield>
+    <subfield code="b">fbju</subfield>
+    <subfield code="l">3</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460090</subfield>
+    <subfield code="t">90</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fhol</subfield>
+    <subfield code="b">fhol</subfield>
+    <subfield code="l">6</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460091</subfield>
+    <subfield code="t">91</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">ftor</subfield>
+    <subfield code="b">ftor</subfield>
+    <subfield code="l">6</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460092</subfield>
+    <subfield code="t">92</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">frmm</subfield>
+    <subfield code="b">frmm</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460093</subfield>
+    <subfield code="t">93</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">frmm</subfield>
+    <subfield code="b">frmm</subfield>
+    <subfield code="l">2</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460094</subfield>
+    <subfield code="t">94</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fnyd</subfield>
+    <subfield code="b">fnyd</subfield>
+    <subfield code="c">m</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460095</subfield>
+    <subfield code="t">95</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fnyd</subfield>
+    <subfield code="b">fnyd</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460096</subfield>
+    <subfield code="t">96</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fnyd</subfield>
+    <subfield code="b">fnyd</subfield>
+    <subfield code="c">m</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460097</subfield>
+    <subfield code="t">97</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fnyd</subfield>
+    <subfield code="b">fnyd</subfield>
+    <subfield code="c">m</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460098</subfield>
+    <subfield code="t">98</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fnyd</subfield>
+    <subfield code="b">fnyd</subfield>
+    <subfield code="c">m</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">Rag</subfield>
+    <subfield code="p">03010626460099</subfield>
+    <subfield code="t">99</subfield>
+    <subfield code="y">L</subfield>
+    <subfield code="z">Pocket</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00629cam a22     1  4500</leader>
+  <controlfield tag="001">642032</controlfield>
+  <controlfield tag="008">041220                a          10nob 2</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">0150025</subfield>
+    <subfield code="b">BIBBI</subfield>
+  </datafield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">843166</subfield>
+    <subfield code="b">BibliofilID</subfield>
+  </datafield>
+  <datafield tag="019" ind1=" " ind2=" ">
+    <subfield code="a">aa</subfield>
+    <subfield code="b">dc,di</subfield>
+    <subfield code="d">R</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">82-421-1586-9</subfield>
+    <subfield code="c">Nkr 348.00</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">dc</subfield>
+    <subfield code="b">AVcd</subfield>
+    <subfield code="d">Rag</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2="0">
+    <subfield code="a">Ragde, Anne B.</subfield>
+    <subfield code="c">forfatter</subfield>
+    <subfield code="d">1957-</subfield>
+    <subfield code="j">n.</subfield>
+    <subfield code="3">10834700</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Berlinerpoplene</subfield>
+    <subfield code="c">Anne B. Ragde</subfield>
+    <subfield code="h">lydopptak</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[Melhus]</subfield>
+    <subfield code="b">Lydbokforl.</subfield>
+    <subfield code="c">2004</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">7 kompaktplater (8 t, 33 min)</subfield>
+    <subfield code="c">i eske 14 x 14 x 3 cm</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="b">digital</subfield>
+  </datafield>
+  <datafield tag="503" ind1=" " ind2=" ">
+    <subfield code="a">Forts. i: Eremittkrepsene</subfield>
+  </datafield>
+  <datafield tag="511" ind1=" " ind2=" ">
+    <subfield code="a">Lest av Anders T. Andersen</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">xlyd 04x1220arj a05-1</subfield>
+  </datafield>
+  <datafield tag="699" ind1=" " ind2="2">
+    <subfield code="a">Familieforhold</subfield>
+    <subfield code="x">Fortellinger</subfield>
+    <subfield code="1">306.87</subfield>
+    <subfield code="2">BS</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Andersen, Anders T.</subfield>
+    <subfield code="j">n.</subfield>
+    <subfield code="e">innl.</subfield>
+    <subfield code="3">33049800</subfield>
+  </datafield>
+  <datafield tag="850" ind1=" " ind2=" ">
+    <subfield code="a">DEICHM</subfield>
+    <subfield code="s">n</subfield>
+  </datafield>
+  <datafield tag="850" ind1=" " ind2=" ">
+    <subfield code="s">n</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="c">DC,DI</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">hutl</subfield>
+    <subfield code="b">hutl</subfield>
+    <subfield code="l">72</subfield>
+    <subfield code="o">dc AVcd Rag</subfield>
+    <subfield code="p">03010642032002</subfield>
+    <subfield code="t">2</subfield>
+    <subfield code="y">DC,DI</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">hutl</subfield>
+    <subfield code="b">hutl</subfield>
+    <subfield code="l">78</subfield>
+    <subfield code="o">dc AVcd Rag</subfield>
+    <subfield code="p">03010642032007</subfield>
+    <subfield code="t">7</subfield>
+    <subfield code="y">DC,DI</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">hutl</subfield>
+    <subfield code="b">hutl</subfield>
+    <subfield code="l">98</subfield>
+    <subfield code="o">dc AVcd Rag</subfield>
+    <subfield code="p">03010642032008</subfield>
+    <subfield code="t">8</subfield>
+    <subfield code="y">DC,DI</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fbol</subfield>
+    <subfield code="b">fbol</subfield>
+    <subfield code="l">39</subfield>
+    <subfield code="o">dc AVcd Rag</subfield>
+    <subfield code="p">03010642032022</subfield>
+    <subfield code="q">2009-03-10</subfield>
+    <subfield code="t">22</subfield>
+    <subfield code="y">DC,DI</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fnor</subfield>
+    <subfield code="b">fnor</subfield>
+    <subfield code="l">32</subfield>
+    <subfield code="o">dc AVcd Rag</subfield>
+    <subfield code="p">03010642032024</subfield>
+    <subfield code="t">24</subfield>
+    <subfield code="y">DC,DI</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fopp</subfield>
+    <subfield code="b">fopp</subfield>
+    <subfield code="l">45</subfield>
+    <subfield code="o">dc AVcd Rag</subfield>
+    <subfield code="p">03010642032025</subfield>
+    <subfield code="t">25</subfield>
+    <subfield code="y">DC,DI</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fgry</subfield>
+    <subfield code="b">fgry</subfield>
+    <subfield code="l">60</subfield>
+    <subfield code="o">dc AVcd Rag</subfield>
+    <subfield code="p">03010642032026</subfield>
+    <subfield code="t">26</subfield>
+    <subfield code="y">DC,DI</subfield>
+    <subfield code="1">8</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">from</subfield>
+    <subfield code="b">from</subfield>
+    <subfield code="l">24</subfield>
+    <subfield code="o">dc AVcd Rag</subfield>
+    <subfield code="p">03010642032027</subfield>
+    <subfield code="t">27</subfield>
+    <subfield code="y">DC,DI</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">hutl</subfield>
+    <subfield code="b">hutl</subfield>
+    <subfield code="l">19</subfield>
+    <subfield code="o">dc AVcd Rag</subfield>
+    <subfield code="p">03010642032030</subfield>
+    <subfield code="t">30</subfield>
+    <subfield code="y">DC,DI</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">ftor</subfield>
+    <subfield code="b">ftor</subfield>
+    <subfield code="l">32</subfield>
+    <subfield code="o">dc AVcd Rag</subfield>
+    <subfield code="p">03010642032031</subfield>
+    <subfield code="q">2015-08-13</subfield>
+    <subfield code="t">31</subfield>
+    <subfield code="y">DC,DI</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">froa</subfield>
+    <subfield code="b">froa</subfield>
+    <subfield code="l">35</subfield>
+    <subfield code="o">dc AVcd Rag</subfield>
+    <subfield code="p">03010642032032</subfield>
+    <subfield code="q">2015-08-18</subfield>
+    <subfield code="t">32</subfield>
+    <subfield code="y">DC,DI</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fbju</subfield>
+    <subfield code="b">fbju</subfield>
+    <subfield code="l">2</subfield>
+    <subfield code="o">dc AVcd Rag</subfield>
+    <subfield code="p">03010642032033</subfield>
+    <subfield code="t">33</subfield>
+    <subfield code="y">DC,DI</subfield>
+    <subfield code="1">1</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fbol</subfield>
+    <subfield code="b">fbol</subfield>
+    <subfield code="l">6</subfield>
+    <subfield code="o">dc AVcd Rag</subfield>
+    <subfield code="p">03010642032034</subfield>
+    <subfield code="t">34</subfield>
+    <subfield code="y">DC,DI</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">frmm</subfield>
+    <subfield code="b">frmm</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">dc AVcd Rag</subfield>
+    <subfield code="p">03010642032035</subfield>
+    <subfield code="t">35</subfield>
+    <subfield code="y">DC,DI</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">froa</subfield>
+    <subfield code="b">froa</subfield>
+    <subfield code="l">19</subfield>
+    <subfield code="m">1</subfield>
+    <subfield code="o">dc AVcd Rag</subfield>
+    <subfield code="p">03010642032036</subfield>
+    <subfield code="q">2015-09-02</subfield>
+    <subfield code="t">36</subfield>
+    <subfield code="y">DC,DI</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fbje</subfield>
+    <subfield code="b">fbje</subfield>
+    <subfield code="l">10</subfield>
+    <subfield code="o">dc AVcd Rag</subfield>
+    <subfield code="p">03010642032037</subfield>
+    <subfield code="q">2015-09-02</subfield>
+    <subfield code="t">37</subfield>
+    <subfield code="y">DC,DI</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fnyd</subfield>
+    <subfield code="b">fnyd</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">dc AVcd Rag</subfield>
+    <subfield code="p">03010642032038</subfield>
+    <subfield code="t">38</subfield>
+    <subfield code="y">DC,DI</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00463nam a22     1  4500</leader>
+  <controlfield tag="001">1549895</controlfield>
+  <controlfield tag="008">140404                a          10ita  </controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">10075836</subfield>
+    <subfield code="b">BibliofilID</subfield>
+  </datafield>
+  <datafield tag="019" ind1=" " ind2=" ">
+    <subfield code="a">a</subfield>
+    <subfield code="b">l</subfield>
+    <subfield code="d">R</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">978-88-545-0662-6</subfield>
+    <subfield code="b">h.</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="h">nob</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="c">ITA</subfield>
+    <subfield code="d">Rag</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2="0">
+    <subfield code="a">Ragde, Anne B.</subfield>
+    <subfield code="c">forfatter</subfield>
+    <subfield code="d">1957-</subfield>
+    <subfield code="j">n.</subfield>
+    <subfield code="3">10834700</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Berlinerpoplene</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">La casa delle bugie</subfield>
+    <subfield code="c">Anne B. Ragde ; traduzione di Cristina Falcinella</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Vicenza</subfield>
+    <subfield code="b">Neri Pozza</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">316 s.</subfield>
+  </datafield>
+  <datafield tag="574" ind1=" " ind2=" ">
+    <subfield code="a">Originaltittel: Berlinerpoplene</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">14-uke</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">14x0404lp</subfield>
+  </datafield>
+  <datafield tag="850" ind1=" " ind2=" ">
+    <subfield code="a">DEICHM</subfield>
+    <subfield code="s">n</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="c">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">hutl</subfield>
+    <subfield code="b">hutl</subfield>
+    <subfield code="l">5</subfield>
+    <subfield code="o">ITA Rag</subfield>
+    <subfield code="p">03011549895001</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>01510cam a22     1  4500</leader>
+  <controlfield tag="001">777611</controlfield>
+  <controlfield tag="008">080103                a          10mul 2</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">0186519</subfield>
+    <subfield code="b">BIBBI</subfield>
+  </datafield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">958474</subfield>
+    <subfield code="b">BibliofilID</subfield>
+  </datafield>
+  <datafield tag="019" ind1=" " ind2=" ">
+    <subfield code="a">b</subfield>
+    <subfield code="b">ee</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="c">Nkr 172.00</subfield>
+  </datafield>
+  <datafield tag="025" ind1=" " ind2=" ">
+    <subfield code="a">8717418132590</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">nob</subfield>
+    <subfield code="b">nob</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">ee</subfield>
+    <subfield code="b">AVdvd</subfield>
+    <subfield code="d">Ber</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Berlinerpoplene</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Berlinerpoplene</subfield>
+    <subfield code="c">regi: Anders T. Andersen og Sirin Eide ; manus: Anne Regine Klovholt, Anders T. Andersen og Åse Vikene</subfield>
+    <subfield code="h">video DVD</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">2-diskutg</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Oslo</subfield>
+    <subfield code="b">Buena Vista Home Entertainment</subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2 DVD'er (5 t)</subfield>
+    <subfield code="b">lyd, kol.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Basert på romanene: Berlinerpoplene ; Eremittkrepsene / Anne B. Ragde</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Serien er tidligere vist på NRK</subfield>
+  </datafield>
+  <datafield tag="503" ind1=" " ind2=" ">
+    <subfield code="a">Produksjonsår: 2007</subfield>
+  </datafield>
+  <datafield tag="511" ind1=" " ind2=" ">
+    <subfield code="a">I rollene: Bjørn Sundquist, Nils Sletta, Andrine Sæther m.fl.</subfield>
+  </datafield>
+  <datafield tag="521" ind1=" " ind2=" ">
+    <subfield code="a">Tillatt for alle</subfield>
+  </datafield>
+  <datafield tag="546" ind1=" " ind2=" ">
+    <subfield code="a">Norsk tale og tekst</subfield>
+  </datafield>
+  <datafield tag="574" ind1=" " ind2=" ">
+    <subfield code="a">Originaltittel: Berlinerpoplene</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">07-uke51a</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">08x0103sn</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="2">
+    <subfield code="a">Filmatisert bok</subfield>
+    <subfield code="3">2044286900</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="2">
+    <subfield code="a">Filmer</subfield>
+    <subfield code="x">Drama</subfield>
+    <subfield code="3">2040525300</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="2">
+    <subfield code="a">TV-serier, Norske</subfield>
+    <subfield code="3">35731500</subfield>
+  </datafield>
+  <datafield tag="699" ind1=" " ind2="2">
+    <subfield code="a">Familieforhold</subfield>
+    <subfield code="x">Fjernsynsserier</subfield>
+    <subfield code="1">306.87</subfield>
+    <subfield code="2">BS</subfield>
+    <subfield code="9">nob</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Andersen, Anders T.</subfield>
+    <subfield code="j">n.</subfield>
+    <subfield code="e">regissør</subfield>
+    <subfield code="3">33049800</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Eide, Sirin</subfield>
+    <subfield code="d">1961-</subfield>
+    <subfield code="j">n.</subfield>
+    <subfield code="e">regissør</subfield>
+    <subfield code="3">15746900</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Klovholt, Anne Regine</subfield>
+    <subfield code="j">n.</subfield>
+    <subfield code="e">manusforf.</subfield>
+    <subfield code="3">2040316300</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Ragde, Anne B.</subfield>
+    <subfield code="c">forfatter</subfield>
+    <subfield code="d">1957-</subfield>
+    <subfield code="j">n.</subfield>
+    <subfield code="e">forf.</subfield>
+    <subfield code="t">Berlinerpoplene</subfield>
+    <subfield code="3">10834700</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Ragde, Anne B.</subfield>
+    <subfield code="c">forfatter</subfield>
+    <subfield code="d">1957-</subfield>
+    <subfield code="j">n.</subfield>
+    <subfield code="e">forf.</subfield>
+    <subfield code="t">Eremittkrepsene</subfield>
+    <subfield code="3">10834700</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Sletta, Nils</subfield>
+    <subfield code="j">n.</subfield>
+    <subfield code="e">skuesp.</subfield>
+    <subfield code="3">2040316400</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Sundquist, Bjørn</subfield>
+    <subfield code="d">1948-</subfield>
+    <subfield code="j">n.</subfield>
+    <subfield code="e">skuesp.</subfield>
+    <subfield code="3">32486000</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Sæther, Andrine</subfield>
+    <subfield code="d">1964-</subfield>
+    <subfield code="j">n.</subfield>
+    <subfield code="e">skuesp.</subfield>
+    <subfield code="3">32895700</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Vikene, Åse</subfield>
+    <subfield code="j">n.</subfield>
+    <subfield code="e">manusforf.</subfield>
+    <subfield code="3">34846900</subfield>
+  </datafield>
+  <datafield tag="850" ind1=" " ind2=" ">
+    <subfield code="a">DEICHM</subfield>
+    <subfield code="s">n</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="c">EE</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">frik</subfield>
+    <subfield code="b">frik</subfield>
+    <subfield code="l">40</subfield>
+    <subfield code="o">ee AVdvd Ber</subfield>
+    <subfield code="p">03010777611003</subfield>
+    <subfield code="t">3</subfield>
+    <subfield code="y">EE</subfield>
+    <subfield code="z">FOR PASIENTE</subfield>
+    <subfield code="5">2</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fhol</subfield>
+    <subfield code="b">fhol</subfield>
+    <subfield code="c">Bok &amp; film</subfield>
+    <subfield code="l">84</subfield>
+    <subfield code="o">ee AVdvd Ber</subfield>
+    <subfield code="p">03010777611005</subfield>
+    <subfield code="q">2013-03-25</subfield>
+    <subfield code="t">5</subfield>
+    <subfield code="y">EE</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fopp</subfield>
+    <subfield code="b">fopp</subfield>
+    <subfield code="c">160/07</subfield>
+    <subfield code="l">60</subfield>
+    <subfield code="o">ee AVdvd Ber</subfield>
+    <subfield code="p">03010777611007</subfield>
+    <subfield code="t">7</subfield>
+    <subfield code="y">EE</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fbje</subfield>
+    <subfield code="b">fbje</subfield>
+    <subfield code="c">07/260 a+b</subfield>
+    <subfield code="l">85</subfield>
+    <subfield code="o">ee AVdvd Ber</subfield>
+    <subfield code="p">03010777611008</subfield>
+    <subfield code="t">8</subfield>
+    <subfield code="y">EE</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fbjo</subfield>
+    <subfield code="b">fbjo</subfield>
+    <subfield code="c">V m</subfield>
+    <subfield code="l">29</subfield>
+    <subfield code="o">ee AVdvd Ber</subfield>
+    <subfield code="p">03010777611010</subfield>
+    <subfield code="t">10</subfield>
+    <subfield code="y">EE</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">flam</subfield>
+    <subfield code="b">flam</subfield>
+    <subfield code="c">SERIE</subfield>
+    <subfield code="l">80</subfield>
+    <subfield code="o">ee AVdvd Ber</subfield>
+    <subfield code="p">03010777611012</subfield>
+    <subfield code="t">12</subfield>
+    <subfield code="y">EE</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">ffur</subfield>
+    <subfield code="b">ffur</subfield>
+    <subfield code="c">Ber</subfield>
+    <subfield code="l">82</subfield>
+    <subfield code="o">ee AVdvd Ber</subfield>
+    <subfield code="p">03010777611015</subfield>
+    <subfield code="t">15</subfield>
+    <subfield code="y">EE</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">ftor</subfield>
+    <subfield code="b">ftor</subfield>
+    <subfield code="c">324A</subfield>
+    <subfield code="l">128</subfield>
+    <subfield code="o">ee AVdvd Ber</subfield>
+    <subfield code="p">03010777611016</subfield>
+    <subfield code="q">2014-10-29</subfield>
+    <subfield code="t">16</subfield>
+    <subfield code="y">EE</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fgam</subfield>
+    <subfield code="b">fgam</subfield>
+    <subfield code="c">NOR/13</subfield>
+    <subfield code="l">117</subfield>
+    <subfield code="o">ee AVdvd Ber</subfield>
+    <subfield code="p">03010777611017</subfield>
+    <subfield code="t">17</subfield>
+    <subfield code="y">EE</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fnor</subfield>
+    <subfield code="b">fnor</subfield>
+    <subfield code="c">NOR/405</subfield>
+    <subfield code="l">45</subfield>
+    <subfield code="o">ee AVdvd Ber</subfield>
+    <subfield code="p">03010777611019</subfield>
+    <subfield code="t">19</subfield>
+    <subfield code="y">EE</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">hutl</subfield>
+    <subfield code="b">hutl</subfield>
+    <subfield code="c">Norsk</subfield>
+    <subfield code="l">40</subfield>
+    <subfield code="o">ee AVdvd Ber</subfield>
+    <subfield code="p">03010777611021</subfield>
+    <subfield code="t">21</subfield>
+    <subfield code="y">EE</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">hutl</subfield>
+    <subfield code="b">hutl</subfield>
+    <subfield code="c">Norsk</subfield>
+    <subfield code="l">5</subfield>
+    <subfield code="o">ee AVdvd Ber</subfield>
+    <subfield code="p">03010777611022</subfield>
+    <subfield code="t">22</subfield>
+    <subfield code="y">EE</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">fbol</subfield>
+    <subfield code="b">fbol</subfield>
+    <subfield code="l">6</subfield>
+    <subfield code="o">ee AVdvd Ber</subfield>
+    <subfield code="p">03010777611023</subfield>
+    <subfield code="t">23</subfield>
+    <subfield code="y">EE</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">froa</subfield>
+    <subfield code="b">froa</subfield>
+    <subfield code="c">TV-serier</subfield>
+    <subfield code="l">2</subfield>
+    <subfield code="o">ee AVdvd Ber</subfield>
+    <subfield code="p">03010777611024</subfield>
+    <subfield code="t">24</subfield>
+    <subfield code="y">EE</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00627cam a22     1  4500</leader>
+  <controlfield tag="001">379371</controlfield>
+  <controlfield tag="007"></controlfield>
+  <controlfield tag="008">920916                a          0 nob  </controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">397475</subfield>
+    <subfield code="b">BibliofilID</subfield>
+  </datafield>
+  <datafield tag="019" ind1=" " ind2=" ">
+    <subfield code="a">bu</subfield>
+    <subfield code="b">l</subfield>
+  </datafield>
+  <datafield tag="082" ind1=" " ind2=" ">
+    <subfield code="a">581.6</subfield>
+  </datafield>
+  <datafield tag="082" ind1="3" ind2=" ">
+    <subfield code="a">641.3</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="c">641.3</subfield>
+    <subfield code="d">Gra</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2="0">
+    <subfield code="a">Grahl-Nielsen, Thora</subfield>
+    <subfield code="d">1901-</subfield>
+    <subfield code="j">n.</subfield>
+    <subfield code="3">26452400</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Ugress er ogsaa mat</subfield>
+    <subfield code="b">opskrifter og aktuelle surrogater av ville vekster</subfield>
+    <subfield code="c">[Av] Thora Grahl-Nielsen [og] Astrid Karlsen</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Bergen</subfield>
+    <subfield code="b">Grieg</subfield>
+    <subfield code="c">1941</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">64 s.</subfield>
+    <subfield code="b">ill.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">"Litteratur": s. 64.</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">r92 xagnar0916</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="1">
+    <subfield code="a">Urter</subfield>
+    <subfield code="q">Ville urter</subfield>
+    <subfield code="x">Matvarer</subfield>
+    <subfield code="1">641.35</subfield>
+    <subfield code="3">31866700</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="2">
+    <subfield code="a">Matlaging</subfield>
+    <subfield code="x">Norge</subfield>
+    <subfield code="x">Historie</subfield>
+    <subfield code="x">Verdenskrigen 1939-1945</subfield>
+    <subfield code="1">641.509481</subfield>
+    <subfield code="3">31654400</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Karlsen, Astrid</subfield>
+    <subfield code="d">1889-</subfield>
+    <subfield code="j">n.</subfield>
+    <subfield code="3">26452500</subfield>
+  </datafield>
+  <datafield tag="850" ind1=" " ind2=" ">
+    <subfield code="a">DEICHM</subfield>
+    <subfield code="s">n</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="c">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">hutl</subfield>
+    <subfield code="b">hutl</subfield>
+    <subfield code="c">m</subfield>
+    <subfield code="l">8</subfield>
+    <subfield code="o">641.3 Gra</subfield>
+    <subfield code="p">03010379371001</subfield>
+    <subfield code="t">1</subfield>
+    <subfield code="y">L</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">hutl</subfield>
+    <subfield code="b">hutl</subfield>
+    <subfield code="c">m</subfield>
+    <subfield code="l">14</subfield>
+    <subfield code="o">641.3 Gra</subfield>
+    <subfield code="p">03010379371002</subfield>
+    <subfield code="t">2</subfield>
+    <subfield code="y">L</subfield>
+    <subfield code="1">11</subfield>
+  </datafield>
+</record>
+<record>
+    <leader>00627cam a22 1 4500</leader>
+    <controlfield tag="001">379371</controlfield>
+    <controlfield tag="008">140318                a          0aeng 2</controlfield>
+    <datafield tag="019" ind1=" " ind2=" ">
+        <subfield code="a">u,mu</subfield>
+    </datafield>
+</record>
+</collection>
