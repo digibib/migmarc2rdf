@@ -1,43 +1,43 @@
-<http://placeholder.com/bibliofilResource/1527411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://placeholder.com/ontology#Publication> .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/ontology#bibliofilPublicationID> "1527411" .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/ontology#language> <http://lexvo.org/id/iso639-3/eng> .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/ontology#audience> <http://data.deichman.no/audience#adult> .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/ontology#writingSystem> <http://data.deichman.no/writingSystem#cyrillic> .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/ontology#literaryForm> <http://data.deichman.no/literaryForm#nonfiction> .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/ontology#format> <http://data.deichman.no/format#Book> .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/ontology#adaptationOfPublicationForParticularUserGroups> <http://data.deichman.no/adaptationForParticularUserGroups#easyLanguage> .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/ontology#adaptationOfPublicationForParticularUserGroups> <http://data.deichman.no/adaptationForParticularUserGroups#easyContent> .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/ontology#adaptationOfPublicationForParticularUserGroups> <http://data.deichman.no/adaptationForParticularUserGroups#largePrint> .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/ontology#adaptationOfPublicationForParticularUserGroups> <http://data.deichman.no/adaptationForParticularUserGroups#braille> .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/ontology#adaptationOfPublicationForParticularUserGroups> <http://data.deichman.no/adaptationForParticularUserGroups#signLanguage> .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/ontology#adaptationOfPublicationForParticularUserGroups> <http://data.deichman.no/adaptationForParticularUserGroups#tactile> .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/ontology#adaptationOfPublicationForParticularUserGroups> <http://data.deichman.no/adaptationForParticularUserGroups#capitalLetters> .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/ontology#isbn> "978-0-415-85745-1" .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/migration#binding> "h." .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/migration#classification> <http://placeholder.com/classification/x952_5_h> .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/raw#locationDewey> "952" .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/raw#locationSignature> "Cri" .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/migration#originalPartTitle> "Original part title" .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/ontology#mainTitle> "Critical issues in contemporary Japan" .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/raw#statementOfResponsibility> "edited by Jeff Kingston" .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/ontology#partNumber> "1" .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/ontology#partTitle> "First part" .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/ontology#edition> "2nd edition" .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/raw#publicationPlace> "London" .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/migration#publisher> "Routledge" .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/ontology#publicationYear> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/raw#publicationYear> "2014" .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/raw#firstEditionCandidate> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/migration#numberOfPages> "XV, 309 s." .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/raw#illustrativeMatter> "ill." .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/raw#contentsDescription> "Har bibliografi, data om bidragsyterne, innholdsfortegnelse, noter, register" .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/ontology#subject> <http://placeholder.com/place/g53a577bb3bc587b0c28ab808390f1c9b> .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/ontology#subject> <http://placeholder.com/subject/s45aa09dfa5091409b56fe9f0c68ad845> .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/migration#subjectAuthority> <http://placeholder.com/geoSubjectAuthority/x14607100> .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/migration#subjectAuthority> <http://placeholder.com/bsSubjectAuthority/japan_samfunnsanalyser> .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/migration#BsSubject> <http://placeholder.com/subject/s53a577bb3bc587b0c28ab808390f1c9b> .
-<http://placeholder.com/bibliofilResource/1527411> <http://data.deichman.no/role#editor> <http://placeholder.com/person/h2048749800> .
-<http://placeholder.com/bibliofilResource/1527411> <http://placeholder.com/ontology#hasItem> <http://placeholder.com/bibliofilItem/x03011527411001> .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://placeholder.com/ontology#Publication> .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/ontology#bibliofilPublicationID> "1527411" .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/ontology#language> <http://lexvo.org/id/iso639-3/eng> .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/ontology#audience> <http://data.deichman.no/audience#adult> .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/ontology#writingSystem> <http://data.deichman.no/writingSystem#cyrillic> .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/ontology#literaryForm> <http://data.deichman.no/literaryForm#nonfiction> .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/ontology#format> <http://data.deichman.no/format#Book> .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/ontology#adaptationOfPublicationForParticularUserGroups> <http://data.deichman.no/adaptationForParticularUserGroups#easyLanguage> .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/ontology#adaptationOfPublicationForParticularUserGroups> <http://data.deichman.no/adaptationForParticularUserGroups#easyContent> .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/ontology#adaptationOfPublicationForParticularUserGroups> <http://data.deichman.no/adaptationForParticularUserGroups#largePrint> .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/ontology#adaptationOfPublicationForParticularUserGroups> <http://data.deichman.no/adaptationForParticularUserGroups#braille> .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/ontology#adaptationOfPublicationForParticularUserGroups> <http://data.deichman.no/adaptationForParticularUserGroups#signLanguage> .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/ontology#adaptationOfPublicationForParticularUserGroups> <http://data.deichman.no/adaptationForParticularUserGroups#tactile> .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/ontology#adaptationOfPublicationForParticularUserGroups> <http://data.deichman.no/adaptationForParticularUserGroups#capitalLetters> .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/ontology#isbn> "978-0-415-85745-1" .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/migration#binding> "h." .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/migration#classification> <http://placeholder.com/classification/x952_5_h> .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/raw#locationDewey> "952" .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/raw#locationSignature> "Cri" .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/migration#originalPartTitle> "Original part title" .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/ontology#mainTitle> "Critical issues in contemporary Japan" .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/raw#statementOfResponsibility> "edited by Jeff Kingston" .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/ontology#partNumber> "1" .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/ontology#partTitle> "First part" .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/ontology#edition> "2nd edition" .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/raw#publicationPlace> "London" .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/migration#publisher> "Routledge" .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/ontology#publicationYear> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/raw#publicationYear> "2014" .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/raw#firstEditionCandidate> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/migration#numberOfPages> "XV, 309 s." .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/raw#illustrativeMatter> "ill." .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/raw#contentsDescription> "Har bibliografi, data om bidragsyterne, innholdsfortegnelse, noter, register" .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/ontology#subject> <http://placeholder.com/place/g53a577bb3bc587b0c28ab808390f1c9b> .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/ontology#subject> <http://placeholder.com/subject/s45aa09dfa5091409b56fe9f0c68ad845> .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/migration#subjectAuthority> <http://placeholder.com/geoSubjectAuthority/x14607100> .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/migration#subjectAuthority> <http://placeholder.com/bsSubjectAuthority/japan_samfunnsanalyser> .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/migration#BsSubject> <http://placeholder.com/subject/s53a577bb3bc587b0c28ab808390f1c9b> .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://data.deichman.no/role#editor> <http://placeholder.com/person/h2048749800> .
+<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/ontology#hasItem> <http://placeholder.com/bibliofilItem/x03011527411001> .
 <http://placeholder.com/classification/x952_5_h> <http://placeholder.com/raw#classificationEdition> "5" .
 <http://placeholder.com/classification/x952_5_h> <http://placeholder.com/raw#classificationNotation> "952" .
 <http://placeholder.com/classification/x952_5_h> <http://placeholder.com/raw#classificationType> "h" .
