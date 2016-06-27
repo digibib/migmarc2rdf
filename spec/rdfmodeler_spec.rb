@@ -5,12 +5,10 @@ input_file = File.join(File.dirname(__FILE__), 'marcrecord.xml')
 output = IO.read(File.join(File.dirname(__FILE__), 'marcrecord.ntriples'))
 describe Marc2RDF do
   context "full conversion with input file and mapping" do
-    before(:each) do
-      @worker = Marc2RDF.new(mapping, input_file)
-    end
     it "ntriples in output should match mapped values" do
-      #STDOUT.puts @worker.dump_ntriples(@worker.graphs[0][:data])
-      expect(@worker.dump_ntriples(@worker.graphs[0][:data])).to eq(output)
+      marc2rdf = Marc2RDF.new(mapping)
+      record = MARC::XMLReader.new(input_file).first
+      expect(marc2rdf.convert(record).dump(:ntriples)).to eq(output)
     end
   end
 end
