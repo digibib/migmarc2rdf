@@ -3,7 +3,6 @@ GEM
   specs:
     addressable (2.4.0)
     agent (0.11.0)
-    coderay (1.1.1)
     crack (0.4.3)
       safe_yaml (~> 1.0.0)
     diff-lcs (1.2.5)
@@ -14,13 +13,8 @@ GEM
     marc (1.0.0)
       scrub_rb (>= 1.0.1, < 2)
       unf
-    method_source (0.8.2)
     minitest (5.8.4)
     power_assert (0.2.7)
-    pry (0.10.3)
-      coderay (~> 1.1.0)
-      method_source (~> 0.8.1)
-      slop (~> 3.4)
     rack (1.6.4)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -55,7 +49,6 @@ GEM
       json (~> 1.8)
       simplecov-html (~> 0.10.0)
     simplecov-html (0.10.0)
-    slop (3.6.0)
     test-unit (3.1.8)
       power_assert
     unf (0.1.4)
@@ -73,7 +66,6 @@ DEPENDENCIES
   agent
   marc (~> 1.0.0)
   minitest
-  pry
   rack-test
   rake (~> 10.4.2)
   rdf (~> 1.1.17)

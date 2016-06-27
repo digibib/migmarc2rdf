@@ -5,7 +5,6 @@ require 'bundler/setup'
 require 'rdf'
 require 'marc'
 require 'json'
-require 'pry' if ENV['RACK_ENV'] = 'test'
 
 require_relative './rdfmodeler.rb'
 require_relative './vocabulary.rb'

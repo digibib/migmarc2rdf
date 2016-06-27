@@ -14,7 +14,3 @@ group :test do
   gem "minitest"
   gem "rdf-spec"
 end
-
-group :development do
-  gem "pry"
-end
