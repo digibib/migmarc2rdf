@@ -8,9 +8,10 @@ class RDFModeler
   ## Instance Methods
   def initialize(record, params={})
     # lookup library by id unless given as param
+    @host = params[:host] || "placeholder.com"
     @record  = record
     @id      = @record['001'].value.to_i
-    @uri     = RDF::URI("http://placeholder.com/bibliofilResource/" + "#{@id}")
+    @uri     = RDF::URI("http://#{@host}/publication/p" + "#{Digest::MD5.hexdigest(@id.to_s)}")
     # mapping is passed as param
     @map = params[:mapping]
     return nil unless @map # you DO need a mapping

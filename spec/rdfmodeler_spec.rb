@@ -127,8 +127,8 @@ describe RDFModeler do
           }}]}
           r = RDFModeler.new(record, :mapping => map)
           r.convert
-          expect(r.statements[0].to_s).to eq("<http://placeholder.com/bibliofilResource/123456> <http://placeholder.com/ontology#subject> \"Cats\" .")
-          expect(r.statements[1].to_s).to eq("<http://placeholder.com/bibliofilResource/123456> <http://placeholder.com/ontology#subject> \"Dogs\" .")
+          expect(r.statements[0].to_s).to eq("<http://placeholder.com/publication/pe10adc3949ba59abbe56e057f20f883e> <http://placeholder.com/ontology#subject> \"Cats\" .")
+          expect(r.statements[1].to_s).to eq("<http://placeholder.com/publication/pe10adc3949ba59abbe56e057f20f883e> <http://placeholder.com/ontology#subject> \"Dogs\" .")
         end
 
         it "when creating relation, adds only relevant subfield by using same index" do
@@ -166,10 +166,10 @@ describe RDFModeler do
           }}]}
           r = RDFModeler.new(record, :mapping => map)
           r.convert
-          expect(r.statements[0].to_s).to eq("<http://placeholder.com/bibliofilResource/123456> <http://placeholder.com/ontology#subject> <http://placeholder.com/subject/cats> .")
+          expect(r.statements[0].to_s).to eq("<http://placeholder.com/publication/pe10adc3949ba59abbe56e057f20f883e> <http://placeholder.com/ontology#subject> <http://placeholder.com/subject/cats> .")
           expect(r.statements[1].to_s).to eq("<http://placeholder.com/subject/cats> <http://placeholder.com/ontology#label> \"Animals\" .")
           expect(r.statements[2].to_s).to eq("<http://placeholder.com/subject/cats> <http://placeholder.com/ontology#subjectLabel> \"Cats\" .")
-          expect(r.statements[3].to_s).to eq("<http://placeholder.com/bibliofilResource/123456> <http://placeholder.com/ontology#subject> <http://placeholder.com/subject/dogs> .")
+          expect(r.statements[3].to_s).to eq("<http://placeholder.com/publication/pe10adc3949ba59abbe56e057f20f883e> <http://placeholder.com/ontology#subject> <http://placeholder.com/subject/dogs> .")
           expect(r.statements[4].to_s).to eq("<http://placeholder.com/subject/dogs> <http://placeholder.com/ontology#label> \"Animals\" .")
           expect(r.statements[5].to_s).to eq("<http://placeholder.com/subject/dogs> <http://placeholder.com/ontology#subjectLabel> \"Dogs\" .")
         end
