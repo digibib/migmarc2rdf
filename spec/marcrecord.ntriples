@@ -37,7 +37,6 @@
 <http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/migration#subjectAuthority> <http://placeholder.com/bsSubjectAuthority/japan_samfunnsanalyser> .
 <http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/migration#BsSubject> <http://placeholder.com/subject/s53a577bb3bc587b0c28ab808390f1c9b> .
 <http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://data.deichman.no/role#editor> <http://placeholder.com/person/h2048749800> .
-<http://placeholder.com/publication/p9bf796c6eb38b342fd4f52ff92f3b153> <http://placeholder.com/ontology#hasItem> <http://placeholder.com/bibliofilItem/x03011527411001> .
 <http://placeholder.com/classification/x952_5_h> <http://placeholder.com/raw#classificationEdition> "5" .
 <http://placeholder.com/classification/x952_5_h> <http://placeholder.com/raw#classificationNotation> "952" .
 <http://placeholder.com/classification/x952_5_h> <http://placeholder.com/raw#classificationType> "h" .
@@ -62,12 +61,3 @@
 <http://placeholder.com/person/h2048749800> <http://placeholder.com/ontology#name> "Kingston, Jeff" .
 <http://placeholder.com/person/h2048749800> <http://placeholder.com/ontology#birthYear> "1970" .
 <http://placeholder.com/person/h2048749800> <http://placeholder.com/raw#lifeSpan> "1970-" .
-<http://placeholder.com/bibliofilItem/x03011527411001> <http://placeholder.com/itemSubfieldCode/a> "hutl" .
-<http://placeholder.com/bibliofilItem/x03011527411001> <http://placeholder.com/itemSubfieldCode/b> "hutl" .
-<http://placeholder.com/bibliofilItem/x03011527411001> <http://placeholder.com/itemSubfieldCode/l> "3" .
-<http://placeholder.com/bibliofilItem/x03011527411001> <http://placeholder.com/itemSubfieldCode/m> "1" .
-<http://placeholder.com/bibliofilItem/x03011527411001> <http://placeholder.com/itemSubfieldCode/o> "952 Cri" .
-<http://placeholder.com/bibliofilItem/x03011527411001> <http://placeholder.com/itemSubfieldCode/p> "03011527411001" .
-<http://placeholder.com/bibliofilItem/x03011527411001> <http://placeholder.com/itemSubfieldCode/q> "2014-11-05" .
-<http://placeholder.com/bibliofilItem/x03011527411001> <http://placeholder.com/itemSubfieldCode/t> "1" .
-<http://placeholder.com/bibliofilItem/x03011527411001> <http://placeholder.com/itemSubfieldCode/y> "L" .
