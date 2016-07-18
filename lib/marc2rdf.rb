@@ -25,7 +25,6 @@ class Marc2RDF
       "ontology" => "http://#{@host}/ontology#",
       "raw" => "http://#{@host}/raw#",
       "lvont" => "http://lexvo.org/ontology#",
-      "itemsubfield" => "http://#{@host}/itemSubfieldCode/",
       "role" => "http://data.deichman.no/role#",
       "migration" => "http://migration.deichman.no/"
     }
