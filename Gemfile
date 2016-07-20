@@ -4,7 +4,7 @@ gem "rdf", "~> 1.1.17"
 gem "marc", "~> 1.0.0"
 gem "rake", "~> 10.4.2"
 gem "agent"
-gem "activesupport"
+gem "activesupport", '< 5.0'
 
 group :test do
   gem "test-unit"
