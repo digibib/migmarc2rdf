@@ -130,15 +130,15 @@ class RDFModeler
       end
     end
 
-    if options.has_key?(:md5) and not generated_objects.empty?
-      generated_objects.collect! do |obj|
-        Digest::MD5.hexdigest(obj)
-      end
-    end
-
     if options.has_key?(:lowercase) and not generated_objects.empty?
       generated_objects.collect! do |obj|
         obj.mb_chars.downcase.to_s
+      end
+    end
+
+    if options.has_key?(:md5) and not generated_objects.empty?
+      generated_objects.collect! do |obj|
+        Digest::MD5.hexdigest(obj)
       end
     end
 
