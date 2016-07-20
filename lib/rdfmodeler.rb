@@ -1,6 +1,7 @@
 # Struct for RDFModeler
 require 'digest'
 require 'rdf/ntriples'
+require 'active_support/core_ext/string'
 
 class RDFModeler
   attr_accessor :record, :id, :uri, :map, :statements, :rdf
@@ -48,6 +49,7 @@ class RDFModeler
    :regex_match => regex match condition, eg. "(\d)+\-" - take number(s) before dash
    :urlize => non-ascii character replacement, alternatively with :downcase, :convert_chars and :regex
    :md5 => hash string with md5
+   :lowercase => true or false
    :downcase => true or false (default)
    :convert_spaces => default '_'
    :regexp => default /[^-_A-Za-z0-9]/
@@ -133,6 +135,13 @@ class RDFModeler
         Digest::MD5.hexdigest(obj)
       end
     end
+
+    if options.has_key?(:lowercase) and not generated_objects.empty?
+      generated_objects.collect! do |obj|
+        obj.mb_chars.downcase.to_s
+      end
+    end
+
 
     #puts generated_objects if $debug
     return generated_objects
@@ -261,7 +270,8 @@ class RDFModeler
                             :substr_offset => subfield[1]['object']['substr_offset'], :substr_length => subfield[1]['object']['substr_length'],
                             :combine => subfield[1]['object']['combine'], :combinestring => subfield[1]['object']['combinestring'],
                             :downcase => subfield[1]['object']['downcase'],
-                            :md5 => subfield[1]['object']['md5'])
+                            :md5 => subfield[1]['object']['md5'],
+                            :lowercase => subfield[1]['object']['lowercase'])
 
                           objects.each do | o, object |
                             object_uri = generate_uri(o, "#{subfield[1]['object']['prefix']}")
@@ -293,7 +303,7 @@ class RDFModeler
                                         :regex_strip => relsub[relkey]['object']['regex_strip'], :regex_substitute => relsub[relkey]['object']['regex_substitute'],
                                         :substr_offset => relsub[relkey]['object']['substr_offset'], :substr_length => relsub[relkey]['object']['substr_length'],
                                         :combine => relsub[relkey]['object']['combine'], :combinestring => relsub[relkey]['object']['combinestring'],
-                                        :md5 => relsub[relkey]['object']['md5'], :downcase => relsub[relkey]['object']['downcase'])
+                                        :md5 => relsub[relkey]['object']['md5'], :lowercase => relsub[relkey]['object']['lowercase'], :downcase => relsub[relkey]['object']['downcase'])
                                       relobjects.each do | ro |
                                         if subfield[0] == relkey
                                           relate(object_uri, RDF.module_eval("#{relsub[relkey]['predicate']}"), RDF::Literal("#{ro}", :language => relsub[relkey]['object']['lang']))
@@ -330,7 +340,8 @@ class RDFModeler
                           :substr_offset => subfield[1]['object']['substr_offset'], :substr_length => subfield[1]['object']['substr_length'],
                           :combine => subfield[1]['object']['combine'], :combinestring => subfield[1]['object']['combinestring'],
                           :downcase => subfield[1]['object']['downcase'],
-                          :md5 => subfield[1]['object']['md5'])
+                          :md5 => subfield[1]['object']['md5'],
+                          :lowercase => subfield[1]['object']['lowercase'])
                         objects.each do | o |
                           case subfield[1]['object']['datatype']
                           when "uri"

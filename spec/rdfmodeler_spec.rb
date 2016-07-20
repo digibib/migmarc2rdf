@@ -76,6 +76,11 @@ describe RDFModeler do
       obj = @modeler.generate_objects(str, {:md5 => true})
       expect(obj.first).to eq("ce74867407f887269af5a32dbbf0b856")
     end
+    it "should lowercase a string if requested" do
+      str = "A Simple String"
+      obj = @modeler.generate_objects(str, {:lowercase => true})
+      expect(obj.first).to eq("a simple string")
+    end
     it "should be able NOT to downcase and convert_spaces in urlize" do
       str = "A Simple String"
       obj = @modeler.generate_objects(str, {:urlize => true, :no_downcase => true, :no_convert_spaces => true})

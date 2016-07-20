@@ -15,8 +15,8 @@ end
 
 loop { case ARGV[0]
     when '-m' then  ARGV.shift; $mapping_file = ARGV.shift
-    when '-i' then  ARGV.shift; $input_file  = ARGV.shift
-    when '-h' then  ARGV.shift; $host  = ARGV.shift
+    when '-i' then  ARGV.shift; $input_file = ARGV.shift
+    when '-h' then  ARGV.shift; $host = ARGV.shift
     when /^-/ then  usage("Unknown option: #{ARGV[0].inspect}")
     else
         if $input_file.nil? then usage("Missing argument!\n") end
