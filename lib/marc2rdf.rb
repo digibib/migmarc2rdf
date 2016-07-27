@@ -23,7 +23,7 @@ class Marc2RDF
       "duo" => "http://data.deichman.no/duo#",
       "bibo"  => "http://purl.org/ontology/bibo/",
       "ontology" => "http://#{@host}/ontology#",
-      "raw" => "http://#{@host}/raw#",
+      "raw" => "http://data.deichman.no/raw#",
       "lvont" => "http://lexvo.org/ontology#",
       "role" => "http://data.deichman.no/role#",
       "migration" => "http://migration.deichman.no/"
