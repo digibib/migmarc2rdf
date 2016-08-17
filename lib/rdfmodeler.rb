@@ -182,7 +182,7 @@ class RDFModeler
                     :regex_match => value['object']['regex_match'], :urlize => value['object']['urlize'], :regex_strip => value['object']['regex_strip'],
                     :regex_substitute => value['object']['regex_substitute'], :substr_offset => value['object']['substr_offset'],
                     :substr_length => value['object']['substr_length'], :combine => value['object']['combine'],
-                    :combinestring => value['object']['combinestring'], :downcase => value['object']['downcase'])
+                    :combinestring => value['object']['combinestring'], :downcase => value['object']['downcase'],:lowercase => value['object']['lowercase'])
                   unless objects.empty?
                     objects.each do | o |
                       unless o.strip.empty?

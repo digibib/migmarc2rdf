@@ -17,14 +17,14 @@ describe RDFModeler do
     before(:each) do
       @reader = MARC::XMLReader.new(input_file)
       @modeler = RDFModeler.new(@reader.first, {:mapping => mapping})
-      @str = "abcdef"
+      @str = "ABCdef"
     end
     it "should create an RDF type" do
       @modeler.set_type(RDF::BIBO.Book)
       expect(@modeler.statements[0].to_s).to include("<http://purl.org/ontology/bibo/Book>")
     end
     it "should support substring offset and substring length" do
-      obj = @modeler.generate_objects(@str, {:substr_offset => 2, :substr_length => 4})
+      obj = @modeler.generate_objects(@str, {:substr_offset => 2, :substr_length => 4, :lowercase => true})
       expect(obj.first).to eq("cdef")
     end
     it "should return empty object when :substr_length and :substr_offset exceeds length of string" do
