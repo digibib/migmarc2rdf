@@ -305,16 +305,12 @@ class RDFModeler
                                         :combine => relsub[relkey]['object']['combine'], :combinestring => relsub[relkey]['object']['combinestring'],
                                         :md5 => relsub[relkey]['object']['md5'], :lowercase => relsub[relkey]['object']['lowercase'], :downcase => relsub[relkey]['object']['downcase'])
                                       relobjects.each do | ro |
-                                        if subfield[0] == relkey
-                                          relate(object_uri, RDF.module_eval("#{relsub[relkey]['predicate']}"), RDF::Literal("#{ro}", :language => relsub[relkey]['object']['lang']))
-                                        else
-                                          if relsub[relkey]['object']['datatype'] == "uri"
-                                            relobject_uri = generate_uri(ro, "#{relsub[relkey]['object']['prefix']}")
+                                        if relsub[relkey]['object']['datatype'] == "uri"
+                                          relobject_uri = generate_uri(ro, "#{relsub[relkey]['object']['prefix']}")
 
-                                            relate(object_uri, RDF.module_eval("#{relsub[relkey]['predicate']}"), RDF::URI(relobject_uri))
-                                          else
-                                            relate(object_uri, RDF.module_eval("#{relsub[relkey]['predicate']}"), RDF::Literal("#{ro}", :language => relsub[relkey]['object']['lang']))
-                                          end
+                                          relate(object_uri, RDF.module_eval("#{relsub[relkey]['predicate']}"), RDF::URI(relobject_uri))
+                                        else
+                                          relate(object_uri, RDF.module_eval("#{relsub[relkey]['predicate']}"), RDF::Literal("#{ro}", :language => relsub[relkey]['object']['lang']))
                                         end
                                       end # relobjects.each
                                     end # end unless empty rel_marc_object
