@@ -305,11 +305,17 @@ class RDFModeler
                                         :combine => relsub[relkey]['object']['combine'], :combinestring => relsub[relkey]['object']['combinestring'],
                                         :md5 => relsub[relkey]['object']['md5'], :lowercase => relsub[relkey]['object']['lowercase'], :downcase => relsub[relkey]['object']['downcase'])
                                       relobjects.each do | ro |
-                                        if relsub[relkey]['object']['datatype'] == "uri"
+                                        case relsub[relkey]['object']['datatype']
+                                        when "uri"
                                           relobject_uri = generate_uri(ro, "#{relsub[relkey]['object']['prefix']}")
-
                                           relate(object_uri, RDF.module_eval("#{relsub[relkey]['predicate']}"), RDF::URI(relobject_uri))
-                                        else
+                                        when "integer"
+                                          relate(object_uri, RDF.module_eval("#{relsub[relkey]['predicate']}"), RDF::Literal("#{ro}", :datatype => RDF::XSD.integer))
+                                        when "float"
+                                          relate(object_uri, RDF.module_eval("#{relsub[relkey]['predicate']}"), RDF::Literal("#{ro}", :datatype => RDF::XSD.float))
+                                        when "gYear"
+                                          relate(object_uri, RDF.module_eval("#{relsub[relkey]['predicate']}"), RDF::Literal("#{ro}", :datatype => RDF::XSD.gYear))
+                                        else # literal
                                           relate(object_uri, RDF.module_eval("#{relsub[relkey]['predicate']}"), RDF::Literal("#{ro}", :language => relsub[relkey]['object']['lang']))
                                         end
                                       end # relobjects.each
