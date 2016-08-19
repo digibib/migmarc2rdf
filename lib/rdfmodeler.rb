@@ -231,7 +231,7 @@ class RDFModeler
                             raise "#{match} missing from orig in mapping for tag #{marctag}"
                           end
                         end
-                        if @predicate.empty? then @predicate = value['default'] end
+                        if @predicate.nil? || @predicate.empty? then @predicate = value['default'] end
                       else
                         @predicate = value['default']
                       end
